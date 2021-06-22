@@ -1,0 +1,20 @@
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\bin\Debug\Projekat blok graf.exe.config
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\bin\Debug\Projekat blok graf.exe
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\bin\Debug\Projekat blok graf.pdb
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\obj\Debug\Projekat blok graf.csprojAssemblyReference.cache
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\obj\Debug\Projekat_blok_graf.Form1.resources
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\obj\Debug\Projekat_blok_graf.Properties.Resources.resources
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\obj\Debug\Projekat blok graf.csproj.GenerateResource.cache
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\obj\Debug\Projekat blok graf.csproj.CoreCompileInputs.cache
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\obj\Debug\Projekat blok graf.exe
+D:\Treci razred\Napredne tehnike\Projekat blok graf\Projekat blok graf\obj\Debug\Projekat blok graf.pdb
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\bin\Debug\Projekat blok graf.exe.config
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\bin\Debug\Projekat blok graf.exe
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\bin\Debug\Projekat blok graf.pdb
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\obj\Debug\Projekat blok graf.csprojAssemblyReference.cache
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\obj\Debug\Projekat_blok_graf.Form1.resources
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\obj\Debug\Projekat_blok_graf.Properties.Resources.resources
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\obj\Debug\Projekat blok graf.csproj.GenerateResource.cache
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\obj\Debug\Projekat blok graf.csproj.CoreCompileInputs.cache
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\obj\Debug\Projekat blok graf.exe
+C:\Users\ntrajkovic18\Desktop\Projekat-blok-graf-main\Projekat blok graf\obj\Debug\Projekat blok graf.pdb
